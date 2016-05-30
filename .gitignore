@@ -87,3 +87,6 @@ Config.mk
 doc/html/
 test/
 tmp/
+*.suo
+circle.VC.db
+*.opendb

@@ -24,7 +24,7 @@ endif
 
 -include $(CIRCLEHOME)/Config.mk
 
-RASPPI	?= 1
+RASPPI	?= 3
 PREFIX	?= arm-linux-gnueabihf-
 
 CC	= $(PREFIX)gcc
